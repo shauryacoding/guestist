@@ -43,6 +43,6 @@ function searching()
 				found=found+1;
 			}	
 		}
-	document.getElementById("p2").innerHTML="name found "+found+" time/s";
+	document.getElementById("p2").innerHTML="name found "+found+" time/s"; 
 	console.log("found name "+found+" time/s");
 }
